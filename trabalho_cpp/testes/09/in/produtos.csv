@@ -1,0 +1,16 @@
+Código;Descrição;Estoque mínimo;Estoque atual;Valor de custo;Percentual de lucro
+120;Pão doce;15;30;1;12
+121;Pão francês;23;40;0,75;12
+122;Pão de queijo;14;30;2;12
+123;Pastel frito;8;15;2,75;12
+124;Pastel assado;8;15;3,25;12
+422;Bolos variados;8;20;25;22
+125;Coxinha;8;18;3,25;12
+423;Bombom;23;47;0,5;12
+215;Requeijão;8;20;4,5;22
+216;Manteiga;8;23;3,25;22
+217;Margarina;8;24;4,5;22
+218;Iogurte 900ml;12;21;6;32
+219;Leite em caixa;23;45;2,3;32
+300;Picolé;23;31;2;28
+146;Cereal de milho;8;10;10;38

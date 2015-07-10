@@ -1,0 +1,21 @@
+Código;Descrição;Estoque mínimo;Estoque atual;Valor de custo;Percentual de lucro
+001;Pão com presunto;10;25;2;10
+002;Pão com mortadela;10;25;1,5;10
+003;Biscoito 01;25;50;5,2;30
+004;Biscoito 02;10;25;5,3;35
+005;Biscoito 03;10;43;5,7;50
+006;Suco de limão;5;10;3;20
+007;Água com gás 500ml;30;50;1,50;5
+008;Bolo de cenoura;10;20;3;50
+009;Bolo de chocolate;5;8;5;70
+010;Coxinha;25;30;3;20
+011;Pastel frito;15;40;2,2;40
+012;Café;15;20;1,5;30
+013;Pastel assado;5;10;2,5;70
+014;Bauru;8;20;4,4;20
+015;Toddynho;2;8;3;40
+016;Leite;10;20;3;10
+017;Brigadeiro;2;9;2,2;70
+018;Doce de leite;2;4;2,7;10
+019;Pão com presunto e mussarela;10;15;2,50;5
+020;Suco de maracujá;15;20;3;40

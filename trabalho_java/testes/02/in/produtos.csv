@@ -1,0 +1,18 @@
+Código;Descrição;Estoque mínimo;Estoque atual;Valor de custo;Percentual de lucro
+101;Refrigerante lata;12;18;2,5;15
+102;Refrigerante 600ml;12;20;3,9;15
+103;Refrigerante 2l;12;50;4,3;15
+109;Cerveja lata;24;25;3,1;25
+104;Cerveja long neck;24;43;4,9;25
+105;Suco de laranja garrafa;5;7;7;15
+106;Água 500ml;40;80;1,5;10
+107;Água 2l;40;75;3;10
+108;Água de coco garrafa;5;6;9,9;15
+201;Biscoito salgado;20;35;3,4;30
+202;Biscoito doce;20;46;2,8;30
+301;Bandeja presunto fatiado;10;15;5,5;25
+302;Bandeja queijo fatiado;10;25;5,9;25
+303;Bandeja salame fatiado;10;18;4,7;25
+401;Salgado frito;7;13;3;40
+402;Salgado assado;7;18;4;40
+403;Docinho;7;9;2,5;40

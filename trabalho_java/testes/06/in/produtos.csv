@@ -1,0 +1,17 @@
+Código;Descrição;Estoque mínimo;Estoque atual;Valor de custo;Percentual de lucro
+1000;Sfiha Frango;30;35;1,25;25
+1001;Sfiha Queijo;30;37;1,30;25
+1002;Cupcake Brigadeiro;10;9;1,00;700
+1003;Cupcake Baunilha;10;12;1,20;700
+1004;Cupcake Nutella;10;14;1,30;700
+1005;Heineken Long Neck;20;20;4,00;7
+1006;Heineken Lata;20;10;3,40;7
+1007;Guiness Long Neck;15;20;10,00;14
+1008;Brahma Lata;20;40;2,50;7
+1009;Pizza Maracanã;10;15;15,00;15
+1010;Pizza Broto;10;15;7,00;15
+1011;Bolo Chocolate;5;10;10,00;20
+1012;Bolo Morango;5;12;12,50;20
+1013;Pao de Forma;30;40;0,1;10
+1014;Pao Doce;30;39;0,13;12
+1015;Pao Frances;30;33;0,09;10

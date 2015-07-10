@@ -1,0 +1,16 @@
+Código;Descrição;Estoque mínimo;Estoque atual;Valor de custo;Percentual de lucro
+201;Refrigerante 2,5l;15;45;4,5;16
+203;Cerveja 600ml;40;45;6,0;30
+204;Cerveja malzibier;30;40;4,95;26
+205;Suco de limão garrafa;4;6;6,5;14
+206;Água 1l;45;85;2,5;12
+207;Água com gas 2l;41;76;4;12
+208;Extrato de tomate;5;6;2,9;16
+301;Molho de tomate;10;15;3,4;20
+302;Polpa de tomate;21;25;2,8;15
+501;Picolés kibom;15;20;4,5;30
+502;Sorvetes Nestle;15;28;17,9;40
+601;Salgado frito;15;25;3;45
+602;Salgado assado;12;21;4;45
+703;Bolo de chocolate;8;12;6,5;35
+705;Bolo de milho;9;15;4,5;30

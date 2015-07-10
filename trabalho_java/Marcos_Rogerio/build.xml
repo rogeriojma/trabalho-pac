@@ -1,0 +1,75 @@
+<project name="Marcos_Rogerio" default="compile" basedir=".">
+	<description>Arquivo de build de exemplo para o trabalho de Prog3, 2014/1.</description>
+
+	<!-- Propriedades do build. -->
+	<property name="src" location="src" />
+	<property name="bin" location="bin" />
+	<property name="Principal" value="marcos_rogerio.execucao.Principal" />
+
+	<!-- Inicialização. -->
+	<target name="init" description="Inicializa as estruturas necessárias.">
+		<tstamp/>
+		<mkdir dir="${bin}" />
+	</target>
+
+	<!-- Compilação. -->
+	<target name="compile" depends="init" description="Compila o código-fonte.">
+		<javac includeantruntime="false" srcdir="${src}" destdir="${bin}" />
+	</target>
+	
+	<!-- Execução normal. -->
+	<target name="run" depends="compile" description="Executa o programa principal, em modo normal.">
+		<java classname="${mainClass}">
+			<arg value="-c" />
+			<arg value="clientes.csv" />
+			<arg value="-f" />
+			<arg value="fornecedores.csv" />
+			<arg value="-p" />
+			<arg value="produtos.csv" />
+			<arg value="-a" />
+			<arg value="compras.csv" />
+			<arg value="-v" />
+			<arg value="vendas.csv" />
+			<classpath>
+				<pathelement path="${bin}" />
+			</classpath>
+		</java>
+	</target>
+	
+	<!-- Execução somente leitura. -->
+	<target name="run-read-only" depends="compile" description="Executa o programa principal, em modo normal.">
+		<java classname="${mainClass}">
+			<arg value="-c" />
+			<arg value="clientes.csv" />
+			<arg value="-f" />
+			<arg value="fornecedores.csv" />
+			<arg value="-p" />
+			<arg value="produtos.csv" />
+			<arg value="-a" />
+			<arg value="compras.csv" />
+			<arg value="-v" />
+			<arg value="vendas.csv" />
+			<arg value="--read-only" />
+			<classpath>
+				<pathelement path="${bin}" />
+			</classpath>
+		</java>
+	</target>
+	
+	<!-- Execução somente escrita. -->
+	<target name="run-write-only" depends="compile" description="Executa o programa principal, em modo normal.">
+		<java classname="${mainClass}">
+			<arg value="--write-only" />
+			<classpath>
+				<pathelement path="${bin}" />
+			</classpath>
+		</java>
+	</target>
+
+	<!-- Limpeza. -->
+	<target name="clean" description="Limpa o projeto, deixando apenas o código-fonte." >
+		<delete dir="${bin}"/>
+		<delete><fileset dir="." includes="*.csv"/></delete>
+		<delete><fileset dir="." includes="*.dat"/></delete>
+	</target>
+</project>

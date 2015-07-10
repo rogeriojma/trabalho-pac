@@ -1,0 +1,21 @@
+Código;Descrição;Estoque mínimo;Estoque atual;Valor de custo;Percentual de lucro
+3001;H2O 600ml;12;26;1,80;5
+3010;Suco de uva 1l;10;16;3,98;10
+3013;Suco de maracuja 1l;10;30;3,98;10
+3205;Refrigerante laranja 2l;14;22;2,50;16
+3206;Refrigerante cola 2l;25;31;2,70;16
+4021;Salgado chips queijo;15;19;1,30;20
+4022;Salgado chips batata;15;36;1,50;20
+5112;Bolo brigadeiro;5;13;5,50;35
+5117;Bandeja doces;5;9;4,40;35
+5302;Mini pizza;10;13;3,30;30
+7101;Chocolate tablete;8;15;3,10;10
+7109;Biscoito recheado;15;45;2,70;15
+7110;Balas sortidas;5;18;2,00;10
+9001;Queijo fatia 45g;5;13;4,50;25
+9004;Manteiga 200g;8;17;5,40;20
+9005;Requeijao;10;32;4,30;25
+9101;Pate presunto;15;27;3,20;20
+9102;Pate atum;15;34;3,20;20
+10320;Empada frango;3;10;3,50;45
+10321;Empada camarao;3;12;3,70;45

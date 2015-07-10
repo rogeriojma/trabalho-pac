@@ -1,0 +1,270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"receita",
+				"receita_temp"
+			],
+			[
+				"receit",
+				"receita_temp"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/makefile",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/ClasseIO.h",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/ClasseIO.cpp",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/Cliente.cpp",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/FormasPgto.h",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/FormasPgto.cpp",
+		"/Users/rogerioalves/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/test.sh",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/Venda.cpp",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/Venda.h",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/Fornecedor.cpp",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/Fornecedor.h",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/Compra.cpp",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/Compra.h",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/Cliente.h",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/Produto.h",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/Produto.cpp",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/src/main.cpp",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/vendas.csv",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/makefile",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/marcos_rogerio/3-vendasprod.csv",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/src/Produto.h",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/src/FormasPgto.h",
+		"/Users/rogerioalves/Documents/workspace_cpp/trabalho_cpp/Makefile",
+		"/Users/rogerioalves/Documents/workspace_cpp/trabalho_cpp/src/main.cpp",
+		"/Users/rogerioalves/Documents/workspace_cpp/trabalho_cpp/src/Produto.cpp",
+		"/Users/rogerioalves/Documents/workspace_cpp/trabalho_cpp/src/Produto.h",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_java/Marcos_Rogerio/src/marcos_rogerio/produtos/Produto.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_java/Marcos_Rogerio/src/marcos_rogerio/produtos/FormasPagamento.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_java/Marcos_Rogerio/src/marcos_rogerio/execucao/Principal.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_java/Marcos_Rogerio/src/marcos_rogerio/produtos/Venda.java",
+		"/Users/rogerioalves/Documents/workspace_cpp/trabalho_cpp/Debug/makefile",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_java/Marcos_Rogerio/produtos.csv",
+		"/Users/rogerioalves/Downloads/exmake/Makefile",
+		"/Users/rogerioalves/Downloads/exmake/exercicio01/subdir.mk",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_java/Marcos_Rogerio/src/marcos_rogerio/pessoas/Fornecedor.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_java/Marcos_Rogerio/build.xml",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_java/Marcos_Rogerio/src/marcos_rogerio/produtos/Compra.java",
+		"/Users/rogerioalves/Downloads/teaching-br-pac-20141-script-cpp/test.sh",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/Cliente.cpp",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_cpp/src/Cliente.cpp",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_java/Marcos_Rogerio/src/marcos_rogerio/pessoas/PessoaJuridica.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/trabalho_java/Marcos_Rogerio/src/marcos_rogerio/pessoas/Cliente.java",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica de Computadores/trabalho_c/principal.c",
+		"/Users/rogerioalves/Documents/teste1.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/teaching-br-pac-20141-script/TrabalhoPAC_2014_1/build.xml",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/java-br-curso-basico-exercicios03-resolucao/src/br/ufes/inf/prog3/lista3/Exercicio04.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/ExerciciosCursoBasicoJava-Lista2/br/ufes/inf/prog3/lista2/exercicio01/ContaCorrenteEspecial.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/ExerciciosCursoBasicoJava-Lista2/br/ufes/inf/prog3/lista2/exercicio01/ContaCorrente.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/ExerciciosCursoBasicoJava-Lista2/br/ufes/inf/prog3/lista2/exercicio03/Exercicio03.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/ExerciciosCursoBasicoJava-Lista2/br/ufes/inf/prog3/lista2/exercicio03/Quadrilatero.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/ExerciciosCursoBasicoJava-Lista2/br/ufes/inf/prog3/lista2/exercicio03/Circulo.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/ExerciciosCursoBasicoJava-Lista2/br/ufes/inf/prog3/lista2/exercicio03/Forma.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/ExerciciosCursoBasicoJava-Lista2/br/ufes/inf/prog3/lista2/exercicio03/Retangulo.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/lista2/Lista23/src/Loja.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/lista2/Lista23/src/DVD.java",
+		"/Users/rogerioalves/Documents/UFES/2º PERIODO/Programação Aplicada de Computadores/lista2/Lista23/src/Produto.java",
+		"/Users/rogerioalves/Downloads/ExerciciosCursoBasicoJava-Lista1/br/ufes/inf/prog3/lista1/exercicio10/Funcionario.java",
+		"/Users/rogerioalves/Downloads/ExerciciosCursoBasicoJava-Lista1/br/ufes/inf/prog3/lista1/exercicio10/Departamento.java",
+		"/Users/rogerioalves/Downloads/ExerciciosCursoBasicoJava-Lista1/br/ufes/inf/prog3/lista1/exercicio10/Empresa.java",
+		"/Users/rogerioalves/Desktop/pasta/Lista1/src/Ex1.java",
+		"/Users/rogerioalves/Desktop/listasPBC.sublime-project",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista2-8.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista2-1.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista2-2.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista2-3.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista2-4.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista2-5.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista2-6.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista2-7.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista2-9.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista2-10.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista2-11.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista2-12.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista3-3a8.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista3-10.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista3-12.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista3-13.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista4-1.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista4-2.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista4-3.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista4-4.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista4-5.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista4-13.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista5-1.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista5-3.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista5-5.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista5-6.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista5-7.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista3-11.c",
+		"/Users/rogerioalves/Documents/UFES/1º PERIODO/Programação Básica/Listas/lista3-9.c"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"f[i].receita",
+			"f[i].lucro",
+			"receita",
+			"struct",
+			"critrios",
+			"temp",
+			"lucro_total",
+			"codigo",
+			"bin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "trabalho_cpp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/rogerioalves/Documents/Resoluções.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
